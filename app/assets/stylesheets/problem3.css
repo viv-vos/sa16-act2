@@ -1,0 +1,39 @@
+h1 {font-size: 80px;
+    text-align: center;
+    color: rgb(13, 70, 85);
+    }
+
+
+    .container {
+        align-items: center;
+        align-self: center;
+        border-style: solid;
+        height: 1000px;
+        width: 1400px;
+    margin: 40px;
+    background-color: beige;
+    }
+
+    .container2 {
+        align: center;
+        padding: 50px;
+        margin: 50px;
+        align-items: center;
+        align-self: center;
+        border-style: solid;
+        height: 600px;
+        width: 900px;
+    margin: 40px;
+    background-color: beige;
+    }
+    .container3 {
+        display: flex;
+        justify-content: center; /* horizontally align */
+        align-items: center; /* vertically align */
+    background-color: beige;
+    }
+
+.images {
+    width: 50%; 
+    height: auto; 
+}
